@@ -1,0 +1,14 @@
+C:\Development\Dotnet\HelloDemo\bin\Debug\net9.0\HelloDemo.exe
+C:\Development\Dotnet\HelloDemo\bin\Debug\net9.0\HelloDemo.deps.json
+C:\Development\Dotnet\HelloDemo\bin\Debug\net9.0\HelloDemo.runtimeconfig.json
+C:\Development\Dotnet\HelloDemo\bin\Debug\net9.0\HelloDemo.dll
+C:\Development\Dotnet\HelloDemo\bin\Debug\net9.0\HelloDemo.pdb
+C:\Development\Dotnet\HelloDemo\obj\Debug\net9.0\HelloDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dotnet\HelloDemo\obj\Debug\net9.0\HelloDemo.AssemblyInfoInputs.cache
+C:\Development\Dotnet\HelloDemo\obj\Debug\net9.0\HelloDemo.AssemblyInfo.cs
+C:\Development\Dotnet\HelloDemo\obj\Debug\net9.0\HelloDemo.csproj.CoreCompileInputs.cache
+C:\Development\Dotnet\HelloDemo\obj\Debug\net9.0\HelloDemo.dll
+C:\Development\Dotnet\HelloDemo\obj\Debug\net9.0\refint\HelloDemo.dll
+C:\Development\Dotnet\HelloDemo\obj\Debug\net9.0\HelloDemo.pdb
+C:\Development\Dotnet\HelloDemo\obj\Debug\net9.0\HelloDemo.genruntimeconfig.cache
+C:\Development\Dotnet\HelloDemo\obj\Debug\net9.0\ref\HelloDemo.dll
